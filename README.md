@@ -9,15 +9,16 @@
   </div>
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-
+</div>
+<div align="center">
   <!-- profile logo 个人资料徽标 -->
-  <table>
-  
+  <table style="width: 200%;">
+
 <tr><td>
 
-## 🫡 About Me
+### 🫡 About Me
 
-<img align="right" width="120" src="https://github.com/hellolst23/hellolst23/blob/main/asset/images/hit.png" />
+<img align="right" width="150" src="https://github.com/hellolst23/hellolst23/blob/main/asset/images/hit.png" />
 
 <p>&emsp;&emsp;Hello, Sitao Lin here.👋</p>
 <p>&emsp;&emsp;An undergrad student from HITsz.📖</p>
@@ -31,5 +32,5 @@
 </td></tr>
 
   </table>
-
+</div>
 
