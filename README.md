@@ -4,7 +4,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://github.com/hellolst23/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!;welcome to my homepage!;enjoy your day!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!;Welcome to my homepage!;Enjoy your day!&center=true&size=27" />
     </a>
   </div>
 
