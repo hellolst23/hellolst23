@@ -22,7 +22,7 @@
 <p>&emsp;&emsp;Hi! <strong>「Sitao Lin」</strong> here.👋</p>
 <p>&emsp;&emsp;A junior undergraduate student from HITSZ. I am interested in data mining and recommender systems.📖</p>
 <p>&emsp;&emsp;Strive For Greatness.🏀🏊‍♂️🏋🎶</p>
-<p>&emsp;&emsp;<strong>           —— Not to be the someone next, but the first myself.👑</strong></p>
+<p>&emsp;&emsp;<strong>—— Not to be the someone next, but the first myself.👑</strong></p>
 <!-- profile logo 个人资料徽标 -->
   <div>
     <!-- visitor -->
