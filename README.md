@@ -20,7 +20,7 @@
 
 <img align="right" width="150" src="https://github.com/hellolst23/hellolst23/blob/main/asset/images/hit.png" />
 
-<p>&emsp;&emsp;Hello, **「Sitao Lin」** here.👋</p>
+<p>&emsp;&emsp;Hello, <strong>「Sitao Lin」</strong> here.👋</p>
 <p>&emsp;&emsp;An undergraduate student from HITsz. I am interested in data mining and recommender systems.📖</p>
 <p>&emsp;&emsp;Strive For Greatness.🏀🏊‍♂️🏋</p>
 <p>&emsp;&emsp;<strong>Not to be the someone next, but the first myself.👑</strong></p>
