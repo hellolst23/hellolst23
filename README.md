@@ -1,16 +1,35 @@
-## Hi there 👋
-![](https://komarev.com/ghpvc/?username=hellolst)
-<!--
-**hellolst23/hellolst23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello🙋
+<div align="center">
 
-Here are some ideas to get you started:
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://github.com/hellolst23/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!;welcome to my homepage!;enjoy your day!&center=true&size=27" />
+    </a>
+  </div>
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- profile logo 个人资料徽标 -->
+  <table>
+  
+<tr><td>
+
+## 🫡 About Me
+
+<img align="right" width="120" src="https://github.com/hellolst23/hellolst23/blob/main/asset/images/hit.png" />
+
+<p>&emsp;&emsp;Hello, Sitao Lin here.👋</p>
+<p>&emsp;&emsp;An undergrad student from HITsz.📖</p>
+<p>&emsp;&emsp;Strive For Greatness.🏀🏊‍♂️🏋</p>
+<p>&emsp;&emsp;<strong>Not to be the someone next, but the first myself.👑</strong></p>
+<!-- profile logo 个人资料徽标 -->
+  <div>
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=hellolst&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  </div>
+</td></tr>
+
+  </table>
+
+
